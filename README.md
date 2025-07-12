@@ -1,11 +1,11 @@
 # Mobile-Sales-Dashboard
 
-#Overview
+# Overview
 
 The Mobile Sales Dashboard provides an analytical overview of mobile phone sales performance, including total sales, quantity, transactions, and average price trends. The report aims to identify sales patterns across different year, months, cities, mobile models, and payment methods. It also compares sales performance with the previous year and provides future sales forecasts. The goal is to enable data-driven decision-making for improving sales strategies and optimizing product offerings.
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
-#Analysis
+# Analysis
 
 1. Sales Performance Overview:
 Total Sales: The total sales recorded are 769M, with 19K units sold and 4K transactions.
@@ -37,7 +37,7 @@ A slight dip in sales in 2024 is expected, but the trend stabilizes and increase
 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
-Conclusion & Recommendations:
+# Conclusion & Recommendations:
 ✅ Expand marketing efforts in top-performing cities to maximize sales potential.
 ✅ Focus on high-selling brands and models by offering targeted promotions.
 ✅ Leverage digital payment trends by providing cashback offers or discounts for UPI and card transactions.
